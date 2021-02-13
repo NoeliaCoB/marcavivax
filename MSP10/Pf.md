@@ -1,8 +1,8 @@
 ## Merozoite Surface Protein 10
 
-###### Name
+##### Name
 MSP10 
-###### Chromosome
+##### Chromosome
 06
 ###### Gene
 PF3D7_0620400
@@ -34,5 +34,4 @@ BioProject: PRJNA148
 BioSample: SAMN00102897
 Assembly: GCF_000002765.5
 
-This is the first line.  
 
