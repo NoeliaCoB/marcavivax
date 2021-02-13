@@ -1,9 +1,9 @@
 ## Merozoite Surface Protein 10
 
-> ###### Name 
-> MSP10   
-> ###### Chromosome
-> 06
+> <p> ###### Name 
+> MSP10 </p>  
+> <p> ###### Chromosome
+> 06</p>
 > ###### Gene
 > PF3D7_0620400
 > ###### ID NCBI Locus
