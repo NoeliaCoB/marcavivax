@@ -3,7 +3,7 @@
 
 
  |**Name**|  | MSP10 |  
-##### Chromosome
+ |**Chromosome**| |06|
 06
 ###### Gene
 PF3D7_0620400
