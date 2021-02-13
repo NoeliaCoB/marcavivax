@@ -1,9 +1,8 @@
 ## Merozoite Surface Protein 10
 
-
-
- |**Name**|  | MSP10 |  
- |**Chromosome**| |06|
+> ###### Name 
+MSP10   
+> ###### Chromosome
 06
 ###### Gene
 PF3D7_0620400
