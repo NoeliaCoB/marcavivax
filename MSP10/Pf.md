@@ -1,6 +1,6 @@
 ## Merozoite Surface Protein 10
 
-##### Name
+##### **Name**
 MSP10 
 ##### Chromosome
 06
