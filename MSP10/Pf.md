@@ -1,10 +1,8 @@
 ## Merozoite Surface Protein 10
 
-| Comilla simple | `         |
-| Barra vertical | \|        |
 
-##### Name
-MSP10 
+
+ |**Name**|  | MSP10 |  
 ##### Chromosome
 06
 ###### Gene
