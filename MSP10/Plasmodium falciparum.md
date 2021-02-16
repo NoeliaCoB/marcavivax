@@ -1,4 +1,4 @@
-#### Merozoite surface protein 7 [LINK](https://www.ncbi.nlm.nih.gov/gene/3885968) 
+#### Merozoite surface protein 10 [LINK](https://www.ncbi.nlm.nih.gov/gene/3885968) 
 
 | **Características** | **Descripción** |
 | ------ | ----------- |
