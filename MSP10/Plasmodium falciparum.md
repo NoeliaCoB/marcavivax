@@ -1,10 +1,10 @@
-#### Merozoite surface protein 10 [LINK](https://www.ncbi.nlm.nih.gov/gene/3885968) 
+#### P. falciparum Merozoite surface protein 10 [LINK](https://www.ncbi.nlm.nih.gov/gene/3885968) 
 
 | **Características** | **Descripción** |
-| ------ | ----------- |
+| ------ | -----------|
 | Gene|	PF3D7_0620400  |
 |GeneID| 3885968 (PF3D7_0620400)	|
-| Taxon | Plasmodium falciparum 3D7 |
+| Organism | Plasmodium falciparum 3D7 |
 | Descripción |  |
 | Position | Pf3D7_06_v3:851,378..852,955(-) |
 | Chromosome  | 06 |
