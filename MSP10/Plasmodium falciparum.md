@@ -18,6 +18,7 @@
 | Download FASTA<sup>2</sup>|XP_966190.1, XM_961097.1, XM_961097.1 exons|
 | Epitopes from IEDB <sup>1</sup>| No data available |
 |Dominios [<sup>3</sup>](https://www.uniprot.org/uniprot/C6KT44)|Signal peptidei 1 – 26, ChainiPRO_5002967971 27 – 525 |
+
 source          1..1578
                  /organism="Plasmodium falciparum 3D7"
                  /mol_type="genomic DNA"
@@ -42,6 +43,7 @@ source          1..1578
                  /db_xref="GOA:C6KT44"
                  /db_xref="InterPro:IPR024731"
                  /db_xref="UniProtKB/TrEMBL:C6KT44"     
+
 
 Nucleotide sequence [<sup>1</sup>](https://plasmodb.org/plasmo/app/record/gene/PF3D7_0620400)
 -----------------------------------------
